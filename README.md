@@ -53,6 +53,6 @@ yarn add Flunt
 
 感谢各位开发者做出的贡献...(_非全部_)
 
-<a href="https://github.com/Found-404/Fl-UI/graphs/contributors">
+<a href="https://github.com/Louekjjk/xd-design">
   <img src="https://contrib.rocks/image?repo=Found-404/Fl-UI"/>
 </a>
