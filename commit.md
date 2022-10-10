@@ -12,7 +12,7 @@
 
 ![image-20220907201215711](https://found-img-blog.oss-cn-hangzhou.aliyuncs.com/img/image-20220907201215711.png)
 
-3. 新建一个文件夹(建议英文)，打开git终端
+3. 新建一个文件夹(建议英文) ，打开git终端
 4. 执行命令`git clone 你刚刚复制的地址`将代码克隆到本地
    - `git clone git@github.com:Found-404/Fl-UI.git `
    - 该操作是将远程仓库克隆到本地
