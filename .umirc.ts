@@ -1,7 +1,7 @@
 import { defineConfig } from 'dumi';
 // import style from './docs/siteIndexStyle';
 
-const repo = 'Fl-UI'; // 项目名(也就是你的仓库名)
+const repo = 'Flent'; // 项目名(也就是你的仓库名)
 
 export default defineConfig({
   title: 'FL Design', // 你的组件库名字
@@ -33,17 +33,17 @@ export default defineConfig({
       children: [
         {
           title: 'CSDN',
-          path: 'https://blog.csdn.net/CarrreyYan_979292?type=blog',
+          path: 'https://blog.csdn.net/ww2727?spm=1000.2115.3001.5343',
         },
         {
           title: '掘金',
-          path: 'https://juejin.cn/user/1785262616087192',
+          path: 'https://juejin.cn/user/1931163020036631/posts',
         },
       ],
     },
     {
       title: 'GitHub',
-      path: 'https://github.com/yq979292',
+      path: 'https://github.com/Louekjjk ',
     },
   ],
   // styles: [style],
